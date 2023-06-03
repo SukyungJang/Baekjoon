@@ -12,5 +12,5 @@
 |공란|공란|공란|
 <br/>
 
-#### 2. 참 사이트
+#### 2. 참고 사이트
 - <https://steady-coding.tistory.com/260>
