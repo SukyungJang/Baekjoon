@@ -16,5 +16,6 @@
 
 ---
 
-#### 2. 참고 사이트
-- <https://steady-coding.tistory.com/260>
+#### 2. 사이트
+- 백준: <https://www.acmicpc.net/workbook/view/459?ref=ansubin.com>
+- 참고: <https://steady-coding.tistory.com/260>
